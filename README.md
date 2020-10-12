@@ -5,4 +5,6 @@ A single page application using HTML and CSS using responsive design.
 -Responsive layouts have used through semantic-ui
 -Styled components have been for MusicBrainz Page 
  
- npm start from the root directory will start the project.
+To run the project run:
+ npm install --save react redux react-redux axios redux-thunk react-router-dom styled-components
+ npm start  
